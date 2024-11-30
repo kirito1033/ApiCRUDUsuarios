@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\models\\actionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\models\\actionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\models\\addupdateusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\models\\addupdateusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\controllers\\tiposdocumentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\controllers\\tiposdocumentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\controllers\\ciudadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\controllers\\ciudadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\models\\ecommercetechdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\models\\ecommercetechdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|c:\\users\\sandr\\source\\repos\\ecommercecrud2\\ecommercecrud2\\ecommercecrud2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D70326CF-8426-4D4C-AFA7-DB64679742FE}|EcommerceCRUD2\\EcommerceCRUD2.csproj|solutionrelative:ecommercecrud2\\ecommercecrud2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\App_Start\\WebApiConfig.cs*",
+              "RelativeToolTip": "EcommerceCRUD2\\App_Start\\WebApiConfig.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:45:36.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\Usuario.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Models\\Usuario.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:59:00.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:36:45.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:39:19.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddUpdateUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\AddUpdateUsuario.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Models\\AddUpdateUsuario.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\AddUpdateUsuario.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Models\\AddUpdateUsuario.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:35:59.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA7wB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:42:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Program.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Program.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:34:02.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\appsettings.json",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\appsettings.json",
+              "RelativeToolTip": "EcommerceCRUD2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T20:32:11.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionConverter.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\ActionConverter.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Models\\ActionConverter.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\ActionConverter.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Models\\ActionConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:25:22.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TiposDocumentosController.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Controllers\\TiposDocumentosController.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Controllers\\TiposDocumentosController.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Controllers\\TiposDocumentosController.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Controllers\\TiposDocumentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:25:47.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\Ciudad.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Models\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\Ciudad.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Models\\Ciudad.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:24:18.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CiudadesController.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Controllers\\CiudadesController.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Controllers\\CiudadesController.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Controllers\\CiudadesController.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Controllers\\CiudadesController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:32:19.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\Departamento.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:24:26.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ecommercetechdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\ecommercetechdbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\Models\\ecommercetechdbContext.cs",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\Models\\ecommercetechdbContext.cs",
+              "RelativeToolTip": "EcommerceCRUD2\\Models\\ecommercetechdbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:28:45.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EcommerceCRUD2.csproj",
+              "DocumentMoniker": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\EcommerceCRUD2.csproj",
+              "RelativeDocumentMoniker": "EcommerceCRUD2\\EcommerceCRUD2.csproj",
+              "ToolTip": "C:\\Users\\sandr\\source\\repos\\EcommerceCRUD2\\EcommerceCRUD2\\EcommerceCRUD2.csproj",
+              "RelativeToolTip": "EcommerceCRUD2\\EcommerceCRUD2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T00:36:02.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALcUAAAAAAAAAAAwwMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-27T16:55:05.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
